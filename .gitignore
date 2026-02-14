@@ -1,4 +1,10 @@
-.metadata/ 
-bin/ 
-target/ 
+.metadata/
+.recommenders/
+*.class
+*.log
+.settings/
+.project
+.classpath
+target/
+bin/
 build/ 
